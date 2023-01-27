@@ -5,6 +5,8 @@ The is the code base to implement a demo to fetch contract events from mirror no
 ### Instructions
 
 1. `npm i` to install dependent packages
+2. Run `node .\scripts\createAccount.js` 
+
 
 ### Output
 

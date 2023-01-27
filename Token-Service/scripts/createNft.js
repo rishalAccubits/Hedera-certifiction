@@ -2,12 +2,11 @@ const {
     TokenCreateTransaction,
     Client,
     TokenType,
-    TokenInfoQuery,
     TokenSupplyType,
     TokenMintTransaction,
     AccountBalanceQuery, PrivateKey, Wallet, CustomFixedFee, Hbar,
     TokenId, AccountId, TransferTransaction, TokenAssociateTransaction,
-    TokenPauseTransaction, TokenUnpauseTransaction, CustomRoyaltyFee
+    CustomRoyaltyFee
 } = require("@hashgraph/sdk");
 require('dotenv').config();
 
