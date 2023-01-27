@@ -5,3 +5,9 @@ The is the code base to implement a demo to fetch contract events from mirror no
 ### Instructions
 
 1. `npm i` to install dependent packages
+
+### OUTPUT
+
+The contract ID is 0.0.16367
+Function 1 Output : 12
+Function 2 Output : 14
